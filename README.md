@@ -1,3 +1,4 @@
+# (Most of my professional work was on private company repositories; I’ve now started sharing personal and open-source projects here. (10/2025))
 # Hi, I’m Ibra Him 👋  
 **Data Engineer & AWS Solution Architect**  
 
