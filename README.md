@@ -28,7 +28,7 @@ I’m a motivated 24-year-old Data Engineer and Data Scientist from Morocco with
 - Supported Big Data solutions for analysis and reporting  
 
 **Software Engineer | 4D** *(Aug 2024 – Apr 2025)*  
-- Managed Snowflake databases, designed AWS cloud solutions, and deployed applications with Kubernetes in multilingual environments  
+- Built and optimized ETL pipelines, and managed databases to ensure efficient data processing.
 
 **Data Engineer Intern | National Center of Nuclear Energy** *(Apr 2024 – Aug 2024)*  
 - Developed pipelines for 3D XCT image analysis using Python and CNNs  
