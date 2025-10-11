@@ -1,9 +1,8 @@
 # (Most of my professional work was on private company repositories; I’ve now started sharing personal and open-source projects here. (10/2025))
-# Hi, I’m Ibra Him 👋  
+# Hi, I’m Ibrahim Ahkouk 👋  
 **Data Engineer & AWS Solution Architect**  
 
-I’m a motivated 24-year-old Data Engineer and Data Scientist from Morocco with a Master’s in Data Science & Engineering and over a year of professional experience. I specialize in building scalable data pipelines, designing cloud solutions, and deploying applications in multilingual environments. I enjoy solving complex problems and contributing to impactful data-driven projects.  
-Open to relocation 🌍  
+I’m a motivated 24-year-old Data Engineer and Data Scientist from Morocco with a Master’s in Data Science & Engineering and over a year of professional experience. I specialize in building scalable data pipelines, designing cloud solutions, and deploying applications in multilingual environments. I enjoy solving complex problems and contributing to impactful data-driven projects.   
 
 ---
 
